@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @tarcoaastha
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning different programming languages
-- 📫 How to reach me @tarcoaastha@gmail.com
+- 👋 Hi, I’m Aastha Tarco
+- 👀 I’m interested in DSA, Development
+- 📫 Reach me @tarcoaastha@gmail.com
 
 <!---
 tarcoaastha/tarcoaastha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
